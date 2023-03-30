@@ -23,6 +23,7 @@ SW Expert Academy : SWEA
 # 🧸 Member
 | Name | GitHub |
 | --- | --- |
+| 김준서 | [@adoo24](https://github.com/adoo24) |
 | 박상희 | [@C0012S](https://github.com/C0012S) |
 | 박창현 | [@gyeoul](https://github.com/gyeoul) |
 | 이지은 | [@Jieun714](https://github.com/Jieun714) |
