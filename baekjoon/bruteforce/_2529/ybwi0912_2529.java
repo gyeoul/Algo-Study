@@ -1,4 +1,4 @@
-package boj;
+package baekjoon.bruteforce._2529;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,10 +8,10 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 /*
-* 9
-* > < < < > > > < <
-* */
-public class B2529_부등호 {
+ * 9
+ * > < < < > > > < <
+ * */
+public class ybwi0912_2529 {
     static int k;
     static char[] arr = new char[10]; // 입력받은 부등호 저장
     static boolean isSelected[] = new boolean[10];
